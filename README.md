@@ -1,2 +1,3 @@
-# Introtogithub
-Intro to Github, Codes for Life workshop
+# CCIB First Repository
+demonstration app
+Author: EC-BingChilling
